@@ -28,6 +28,7 @@ Frédéric a alors défini 3 scénarii classiques de pair programming :
   * spontané;
   * un ancien avec un nouveau;
   * écriture de testes.
+  
 Ces scénarii sont les plus courant. Cependant, Frédéric souligne qu'il n'y a pas de format type et que le plus important est que les développeurs travailllent en binôme. Il donne alors un ensemble d'avantages au pair programming :
   * Avoir un transfert de connaissances sur le code;
   * Avoir 2 fois plus d'idées pendant une implémentation;
@@ -37,6 +38,7 @@ Ces scénarii sont les plus courant. Cependant, Frédéric souligne qu'il n'y a 
   * Avoir une responsabilité sur le code partagé;
   * Valoriser le partage des connaissances;
   * Créer un esprit d'équipe solide.
+  
 Pour finir, il conclut en indiquant que le pair programming ne coûte pas plus cher en vue de ses nombreux avantages et que cela permet de construire une équipe solidaire permettant de produire du code de meilleur qualité.
 
 
